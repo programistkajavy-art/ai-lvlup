@@ -1,0 +1,226 @@
+[
+  {
+    "lp": 21,
+    "name": "Zapiekanka z cukinią, marchewką i serem",
+    "ingredients": [
+      {
+        "name": "cukinia",
+        "amount": "1 szt. (250 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "150 g"
+      },
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "100 ml"
+      },
+      {
+        "name": "oliwki",
+        "amount": "30 g"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      }
+    ],
+    "instructions": [
+      "Pokrój warzywa w kostkę i wymieszaj z serkiem.",
+      "W misce wymieszaj jajka z mlekiem, dopraw solą i pieprzem.",
+      "Połącz masę jajeczną z warzywami i serem.",
+      "Przełóż do naczynia żaroodpornego i piecz 30 minut w 180°C.",
+      "Podawaj na ciepło."
+    ]
+  },
+  {
+    "lp": 22,
+    "name": "Muffiny warzywne z budyniem",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "100 ml"
+      },
+      {
+        "name": "budyń waniliowy (proszek)",
+        "amount": "10 g"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1 szt. (250 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "100 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "25 g"
+      },
+      {
+        "name": "mąka",
+        "amount": "120 g"
+      },
+      {
+        "name": "proszek do pieczenia",
+        "amount": "1 łyżeczka"
+      }
+    ],
+    "instructions": [
+      "Zetrzyj warzywa, odciśnij nadmiar wody.",
+      "W misce wymieszaj jajka, mleko i budyń.",
+      "Dodaj warzywa, ser biały i oliwki, wymieszaj.",
+      "Wsyp mąkę z proszkiem do pieczenia, wymieszaj na jednolitą masę.",
+      "Nakładaj do foremek na muffiny i piecz 25–30 minut w 180°C."
+    ]
+  },
+  {
+    "lp": 23,
+    "name": "Frittata z marchewką i burakiem",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "4 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "50 ml"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "burak",
+        "amount": "1 szt. (150 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "100 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      },
+      {
+        "name": "olej",
+        "amount": "1 łyżka"
+      }
+    ],
+    "instructions": [
+      "Pokrój warzywa w kostkę i podsmaż na oleju przez 3–4 minuty.",
+      "W misce wymieszaj jajka, mleko i ser biały.",
+      "Wlej masę na patelnię z warzywami, smaż na małym ogniu do ścięcia.",
+      "Przełóż patelnię do piekarnika na 5 minut w 180°C, aby wierzch się zarumienił."
+    ]
+  },
+  {
+    "lp": 24,
+    "name": "Sałatka z jajkiem, cukinią i oliwkami",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "cukinia",
+        "amount": "1/2 szt. (120 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (80 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "50 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "mleko",
+        "amount": "1 łyżka"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      },
+      {
+        "name": "olej",
+        "amount": "1 łyżka"
+      }
+    ],
+    "instructions": [
+      "Ugotuj jajka na twardo i ostudź.",
+      "Pokrój warzywa i ser w kostkę, oliwki w plasterki.",
+      "Wymieszaj wszystkie składniki w misce.",
+      "Dodaj mleko i olej, dopraw solą i pieprzem.",
+      "Podawaj schłodzone."
+    ]
+  },
+  {
+    "lp": 25,
+    "name": "Omlet warzywno-serowy",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "3 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "50 ml"
+      },
+      {
+        "name": "ser biały",
+        "amount": "100 g"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1/2 szt. (120 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (80 g)"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "masło",
+        "amount": "1 łyżka"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      }
+    ],
+    "instructions": [
+      "Zetrzyj marchew i cukinię na tarce.",
+      "W misce wymieszaj jajka z mlekiem i dodaj ser oraz oliwki.",
+      "Rozgrzej masło na patelni i wlej masę.",
+      "Smaż na małym ogniu, mieszając, aż omlet się zetnie.",
+      "Dopraw solą i pieprzem i podawaj."
+    ]
+  }
+]

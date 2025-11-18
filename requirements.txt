@@ -1,0 +1,10 @@
+azure-cognitiveservices-vision-computervision #1$ za 100 obrazow, prebuild model
+azure-core
+msrest
+python-dotenv
+azure-ai-vision-imageanalysis
+azure-identity
+openai 
+gradio
+pillow
+azure-search-documents

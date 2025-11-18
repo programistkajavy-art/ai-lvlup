@@ -1,0 +1,472 @@
+[
+  {
+    "lp": 11,
+    "name": "Frittata z cukinią i marchewką",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "4 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "50 ml"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1 szt. (250 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "100 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      },
+      {
+        "name": "olej",
+        "amount": "1 łyżka"
+      }
+    ],
+    "instructions": [
+      "Pokrój cukinię i marchew w drobną kostkę.",
+      "Rozgrzej olej na patelni i podsmaż warzywa 3–4 minuty.",
+      "W misce wymieszaj jajka, mleko i ser biały, dopraw solą i pieprzem.",
+      "Wlej masę jajeczną na patelnię z warzywami.",
+      "Smaż na małym ogniu, aż masa się zetnie.",
+      "Przełóż patelnię do piekarnika na 5 minut w 180°C, aby wierzch się zarumienił."
+    ]
+  },
+  {
+    "lp": 12,
+    "name": "Sałatka warzywna z jajkiem i twarogiem",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "ser biały",
+        "amount": "150 g"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1/2 szt. (120 g)"
+      },
+      {
+        "name": "burak",
+        "amount": "1 szt. (150 g)"
+      },
+      {
+        "name": "oliwki",
+        "amount": "30 g"
+      },
+      {
+        "name": "mleko",
+        "amount": "2 łyżki"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      }
+    ],
+    "instructions": [
+      "Ugotuj jajka na twardo i ostudź.",
+      "Zetrzyj warzywa na tarce i odciśnij nadmiar wody.",
+      "Pokrój ser biały w kostkę i oliwki w plasterki.",
+      "Wymieszaj wszystkie składniki w misce.",
+      "Dodaj mleko, dopraw solą i pieprzem, dokładnie wymieszaj.",
+      "Podawaj schłodzone."
+    ]
+  },
+  {
+    "lp": 13,
+    "name": "Budyniowe naleśniki z warzywami",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "200 ml"
+      },
+      {
+        "name": "mąka",
+        "amount": "100 g"
+      },
+      {
+        "name": "budyń waniliowy (proszek)",
+        "amount": "10 g"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1/2 szt. (120 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "100 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "olej",
+        "amount": "1 łyżka"
+      }
+    ],
+    "instructions": [
+      "Zetrzyj cukinię i marchew na tarce, odciśnij nadmiar wody.",
+      "W misce wymieszaj jajka, mleko, mąkę i proszek budyniowy na ciasto naleśnikowe.",
+      "Dodaj starte warzywa, ser biały i pokrojone oliwki, wymieszaj.",
+      "Rozgrzej patelnię z olejem.",
+      "Smaż cienkie naleśniki z obu stron na złoty kolor.",
+      "Podawaj na ciepło."
+    ]
+  },
+  {
+    "lp": 14,
+    "name": "Warzywna zapiekanka z budyniem",
+    "ingredients": [
+      {
+        "name": "budyń waniliowy (proszek)",
+        "amount": "20 g"
+      },
+      {
+        "name": "mleko",
+        "amount": "300 ml"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1 szt. (250 g)"
+      },
+      {
+        "name": "burak",
+        "amount": "1 szt. (150 g)"
+      },
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "ser biały",
+        "amount": "150 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      }
+    ],
+    "instructions": [
+      "Pokrój warzywa w kostkę lub zetrzyj na tarce.",
+      "Ugotuj warzywa w 200 ml mleka do miękkości.",
+      "W pozostałym mleku rozpuść proszek budyniowy i dodaj do warzyw.",
+      "Dodaj jajka, ser biały i oliwki, wymieszaj.",
+      "Przełóż masę do naczynia żaroodpornego.",
+      "Piecz 30 minut w 180°C."
+    ]
+  },
+  {
+    "lp": 15,
+    "name": "Jajecznica z cukinią i marchewką",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "3 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "30 ml"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1/2 szt. (120 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (80 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "50 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "masło",
+        "amount": "1 łyżka"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      }
+    ],
+    "instructions": [
+      "Pokrój warzywa w drobną kostkę.",
+      "Rozgrzej masło na patelni i podsmaż warzywa 3–4 minuty.",
+      "W miseczce roztrzep jajka z mlekiem i dodaj ser biały oraz oliwki.",
+      "Wlej masę na patelnię i smaż na małym ogniu, mieszając, aż jajecznica się zetnie.",
+      "Dopraw solą i pieprzem."
+    ]
+  },
+  {
+    "lp": 16,
+    "name": "Muffiny warzywno-budyniowe",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "100 ml"
+      },
+      {
+        "name": "ser biały",
+        "amount": "150 g"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1 szt. (250 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "budyń waniliowy (proszek)",
+        "amount": "10 g"
+      },
+      {
+        "name": "mąka",
+        "amount": "120 g"
+      },
+      {
+        "name": "proszek do pieczenia",
+        "amount": "1 łyżeczka"
+      },
+      {
+        "name": "oliwki",
+        "amount": "30 g"
+      }
+    ],
+    "instructions": [
+      "Rozgrzej piekarnik do 180°C i przygotuj formę na muffiny z papilotkami.",
+      "Zetrzyj warzywa i odciśnij nadmiar wody.",
+      "W misce wymieszaj jajka, mleko i ser biały.",
+      "Dodaj warzywa, proszek budyniowy, mąkę i proszek do pieczenia.",
+      "Dodaj pokrojone oliwki, wymieszaj masę.",
+      "Nakładaj do foremek i piecz 25–30 minut."
+    ]
+  },
+  {
+    "lp": 17,
+    "name": "Frittata z burakiem i marchewką",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "4 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "50 ml"
+      },
+      {
+        "name": "burak",
+        "amount": "1 szt. (150 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "100 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      },
+      {
+        "name": "olej",
+        "amount": "1 łyżka"
+      }
+    ],
+    "instructions": [
+      "Pokrój warzywa w drobną kostkę.",
+      "Podsmaż na patelni na oleju przez 3–4 minuty.",
+      "W misce wymieszaj jajka, mleko i ser biały.",
+      "Wlej masę na patelnię z warzywami.",
+      "Smaż na małym ogniu, aż się zetnie.",
+      "Przełóż do piekarnika na 5 minut w 180°C, aby wierzch się zarumienił."
+    ]
+  },
+  {
+    "lp": 18,
+    "name": "Sałatka z warzywami, jajkiem i budyniem",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "budyń waniliowy (proszek)",
+        "amount": "10 g"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1/2 szt. (120 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "100 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "mleko",
+        "amount": "2 łyżki"
+      }
+    ],
+    "instructions": [
+      "Ugotuj jajka na twardo i ostudź.",
+      "Zetrzyj marchew i cukinię.",
+      "Pokrój ser biały w kostkę i oliwki w plasterki.",
+      "W misce wymieszaj warzywa, ser, oliwki i jajka.",
+      "Dodaj rozpuszczony w mleku budyń, wymieszaj dokładnie.",
+      "Podawaj schłodzone."
+    ]
+  },
+  {
+    "lp": 19,
+    "name": "Omlet warzywno-budyniowy",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "3 szt."
+      },
+      {
+        "name": "mleko",
+        "amount": "50 ml"
+      },
+      {
+        "name": "budyń waniliowy (proszek)",
+        "amount": "10 g"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (80 g)"
+      },
+      {
+        "name": "cukinia",
+        "amount": "1/2 szt. (120 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "50 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "masło",
+        "amount": "1 łyżka"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      }
+    ],
+    "instructions": [
+      "Zetrzyj marchew i cukinię na tarce.",
+      "W misce roztrzep jajka z mlekiem i proszkiem budyniowym.",
+      "Dodaj ser biały i oliwki, wymieszaj.",
+      "Rozgrzej masło na patelni i wlej masę.",
+      "Smaż na małym ogniu, mieszając, aż omlet się zetnie."
+    ]
+  },
+  {
+    "lp": 20,
+    "name": "Jajka sadzone z warzywami i serem",
+    "ingredients": [
+      {
+        "name": "jajka",
+        "amount": "2 szt."
+      },
+      {
+        "name": "cukinia",
+        "amount": "1/2 szt. (120 g)"
+      },
+      {
+        "name": "marchew",
+        "amount": "1 szt. (80 g)"
+      },
+      {
+        "name": "burak",
+        "amount": "1 szt. (100 g)"
+      },
+      {
+        "name": "ser biały",
+        "amount": "50 g"
+      },
+      {
+        "name": "oliwki",
+        "amount": "20 g"
+      },
+      {
+        "name": "mleko",
+        "amount": "1 łyżka"
+      },
+      {
+        "name": "masło",
+        "amount": "1 łyżka"
+      },
+      {
+        "name": "sól i pieprz",
+        "amount": "do smaku"
+      }
+    ],
+    "instructions": [
+      "Pokrój warzywa w cienkie plastry.",
+      "Podsmaż na maśle 5–7 minut.",
+      "Dodaj mleko i ser biały, wymieszaj delikatnie.",
+      "Zrób zagłębienia i wbij jajka.",
+      "Przykryj patelnię i smaż, aż jajka się zetną.",
+      "Dopraw solą i pieprzem."
+    ]
+  }
+]
