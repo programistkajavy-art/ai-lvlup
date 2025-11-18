@@ -1,0 +1,453 @@
+[
+{
+"lp": 1,
+"name": "Naleśniki na kefirze z jajkiem",
+"ingredients": [
+{ "name": "jaja", "amount": "3 szt" },
+{ "name": "kefir", "amount": "250 ml" },
+{ "name": "mąka pszenna", "amount": "150 g" },
+{ "name": "cukier", "amount": "2 łyżki" },
+{ "name": "sól", "amount": "1 szczypta" },
+{ "name": "olej roślinny", "amount": "2 łyżki" }
+],
+"instructions": [
+"W misce ubij jaja z cukrem i solą na puszystą masę.",
+"Dodaj kefir i dokładnie wymieszaj.",
+"Stopniowo dodawaj mąkę pszenną, ciągle mieszając, aby nie powstały grudki.",
+"Dodaj 1 łyżkę oleju do ciasta i wymieszaj na gładką konsystencję.",
+"Rozgrzej patelnię i posmaruj olejem.",
+"Nalewaj cienką warstwę ciasta na rozgrzaną patelnię.",
+"Smaż naleśniki z obu stron na złoty kolor, około 1-2 minuty z każdej strony.",
+"Podawaj ciepłe z ulubionym nadzieniem lub polane miodem."
+]
+},
+{
+"lp": 2,
+"name": "Racuchy z mąki pszennej na kefirze",
+"ingredients": [
+{ "name": "mąka pszenna", "amount": "200 g" },
+{ "name": "kefir", "amount": "200 ml" },
+{ "name": "Jaja z chowu ściółkowego", "amount": "2 szt" },
+{ "name": "cukier", "amount": "3 łyżki" },
+{ "name": "proszek do pieczenia", "amount": "1 łyżeczka" },
+{ "name": "sól", "amount": "1 szczypta" },
+{ "name": "olej do smażenia", "amount": "100 ml" }
+],
+"instructions": [
+"W misce ubij jaja z cukrem na puszystą masę.",
+"Dodaj kefir i dokładnie wymieszaj.",
+"Przesiej mąkę pszenną z proszkiem do pieczenia i solą.",
+"Stopniowo dodawaj mąkę do masy jajeczno-kefirowej, mieszając na gładkie ciasto.",
+"Ciasto powinno być gęste, ale sypkie.",
+"Rozgrzej olej na patelni do temperatury średniej.",
+"Nakładaj łyżką porcje ciasta na rozgrzany olej, formując małe placuszki.",
+"Smaż racuchy na złoty kolor z obu stron, około 2-3 minuty z każdej strony.",
+"Odsącz na papierowym ręczniku i podawaj posypane cukrem pudrem."
+]
+},
+{
+"lp": 3,
+"name": "Omlet z pomidorami koktajlowymi",
+"ingredients": [
+{ "name": "jaja", "amount": "4 szt" },
+{ "name": "pomidory koktajlowe", "amount": "200 g" },
+{ "name": "cebula", "amount": "1 szt" },
+{ "name": "masło", "amount": "20 g" },
+{ "name": "sól", "amount": "1 łyżeczka" },
+{ "name": "pieprz czarny", "amount": "0.5 łyżeczki" },
+{ "name": "bazylia świeża", "amount": "5 g" }
+],
+"instructions": [
+"Pokrój cebulę w drobną kostkę.",
+"Przekrój pomidory koktajlowe na połówki.",
+"Rozgrzej masło na patelni i podsmaż cebulę do miękkości, około 3-4 minut.",
+"Dodaj pomidory koktajlowe i smaż 2 minuty, aż zmiękną.",
+"W misce ubij jaja z solą i pieprzem.",
+"Wlej jaja na patelnię z warzywami.",
+"Smaż na małym ogniu pod przykryciem przez 5-7 minut, aż jaja się zetną.",
+"Posyp posiekaną bazylią i podawaj na gorąco."
+]
+},
+{
+"lp": 4,
+"name": "Jajecznica z pomidorami koktajlowymi i cebulą",
+"ingredients": [
+{ "name": "jaja", "amount": "5 szt" },
+{ "name": "pomidory koktajlowe", "amount": "250 g" },
+{ "name": "cebula", "amount": "1 szt" },
+{ "name": "masło", "amount": "30 g" },
+{ "name": "sól", "amount": "1 łyżeczka" },
+{ "name": "pieprz", "amount": "0.5 łyżeczki" },
+{ "name": "szczypiorek", "amount": "10 g" }
+],
+"instructions": [
+"Pokrój cebulę w drobną kostkę.",
+"Przekrój pomidory koktajlowe na ćwiartki.",
+"Rozgrzej masło na patelni.",
+"Podsmaż cebulę do miękkości przez 3 minuty.",
+"Dodaj pomidory i smaż 2-3 minuty.",
+"Rozbij jaja do miski i lekko roztrzep widelcem z solą i pieprzem.",
+"Wlej jaja na patelnię i delikatnie mieszaj drewnianą łyżką.",
+"Smaż do ścięcia się jajek, około 3-4 minut.",
+"Posyp posiekanym szczypiorkiem i podawaj."
+]
+},
+{
+"lp": 5,
+"name": "Kurczak w sosie sojowym z imbirem",
+"ingredients": [
+{ "name": "pierś z kurczaka", "amount": "500 g" },
+{ "name": "sos sojowy", "amount": "60 ml" },
+{ "name": "imbir świeży", "amount": "20 g" },
+{ "name": "czosnek", "amount": "3 ząbki" },
+{ "name": "miód", "amount": "2 łyżki" },
+{ "name": "olej sezamowy", "amount": "2 łyżki" },
+{ "name": "sezam", "amount": "1 łyżka" }
+],
+"instructions": [
+"Pokrój kurczaka w kostkę około 2 cm.",
+"Obierz i zetrzyj imbir na tarce.",
+"Posiekaj czosnek drobno.",
+"Rozgrzej olej sezamowy na patelni.",
+"Podsmaż kurczaka na dużym ogniu przez 5-6 minut do zrumienienia.",
+"Dodaj czosnek i imbir, smaż 1-2 minuty.",
+"Wlej sos sojowy i miód, wymieszaj dokładnie.",
+"Duś na małym ogniu przez 8-10 minut, aż kurczak będzie miękki.",
+"Posyp sezamem i podawaj z ryżem."
+]
+},
+{
+"lp": 6,
+"name": "Smażony ryż z sosem sojowym i imbirem",
+"ingredients": [
+{ "name": "ryż", "amount": "300 g" },
+{ "name": "sos sojowy", "amount": "50 ml" },
+{ "name": "imbir świeży", "amount": "15 g" },
+{ "name": "jaja", "amount": "2 szt" },
+{ "name": "marchew", "amount": "1 szt" },
+{ "name": "groszek mrożony", "amount": "100 g" },
+{ "name": "olej roślinny", "amount": "3 łyżki" }
+],
+"instructions": [
+"Ugotuj ryż według instrukcji na opakowaniu i odstaw do ostygnięcia.",
+"Zetrzyj marchew na tarce, zetrzyj imbir na drobnej tarce.",
+"Rozgrzej olej na dużej patelni lub woku.",
+"Podsmaż marchew i groszek przez 3 minuty.",
+"Dodaj imbir i smaż 1 minutę.",
+"Wbij jaja i szybko mieszaj, rozbijając na małe kawałki.",
+"Dodaj ugotowany ryż i smaż 5 minut, często mieszając.",
+"Wlej sos sojowy, wymieszaj dokładnie.",
+"Smaż wszystko razem jeszcze 2-3 minuty na dużym ogniu.",
+"Podawaj na gorąco."
+]
+},
+{
+"lp": 7,
+"name": "Zapiekanka z sosem pomidorowym i cebulą",
+"ingredients": [
+{ "name": "sos pomidorowy", "amount": "400 ml" },
+{ "name": "cebula", "amount": "2 szt" },
+{ "name": "papryka czerwona", "amount": "2 szt" },
+{ "name": "cukinia", "amount": "1 szt" },
+{ "name": "ser żółty", "amount": "150 g" },
+{ "name": "oliwa z oliwek", "amount": "3 łyżki" },
+{ "name": "oregano", "amount": "1 łyżeczka" }
+],
+"instructions": [
+"Rozgrzej piekarnik do 180°C.",
+"Pokrój cebulę w kostkę, paprykę w paski, cukinię w plasterki.",
+"Podsmaż cebulę na oliwie przez 5 minut do miękkości.",
+"Dodaj paprykę i cukinię, smaż 5 minut.",
+"Dodaj sos pomidorowy i oregano, gotuj 5 minut.",
+"Przelej warzywa w sosie do naczynia żaroodpornego.",
+"Posyp startym serem żółtym.",
+"Piecz przez 25-30 minut, aż ser się zarumieni.",
+"Podawaj z pieczywem lub ryżem."
+]
+},
+{
+"lp": 8,
+"name": "Makaron z sosem pomidorowym i cebulą",
+"ingredients": [
+{ "name": "makaron", "amount": "400 g" },
+{ "name": "sos pomidorowy", "amount": "400 ml" },
+{ "name": "cebula", "amount": "2 szt" },
+{ "name": "czosnek", "amount": "4 ząbki" },
+{ "name": "oliwa z oliwek", "amount": "3 łyżki" },
+{ "name": "bazylia", "amount": "10 g" },
+{ "name": "parmezan", "amount": "50 g" }
+],
+"instructions": [
+"Ugotuj makaron w osolonej wodzie według instrukcji na opakowaniu.",
+"Pokrój cebulę w drobną kostkę, posiekaj czosnek.",
+"Rozgrzej oliwę na patelni i podsmaż cebulę przez 5 minut.",
+"Dodaj czosnek i smaż 1 minutę, nie przypuszczając.",
+"Wlej sos pomidorowy i gotuj na małym ogniu przez 10-12 minut.",
+"Odcedź makaron, zachowując pół szklanki wody z gotowania.",
+"Dodaj makaron do sosu i wymieszaj.",
+"Jeśli sos jest za gęsty, dodaj wodę z gotowania makaronu.",
+"Posyp posiekaną bazylią i tartym parmezanem, podawaj."
+]
+},
+{
+"lp": 9,
+"name": "Leczo z pomidorów krojonych i cebuli",
+"ingredients": [
+{ "name": "pomidory krojone w soku pomidorowym", "amount": "800 g" },
+{ "name": "cebula", "amount": "3 szt" },
+{ "name": "papryka", "amount": "4 szt" },
+{ "name": "kiełbasa", "amount": "300 g" },
+{ "name": "olej roślinny", "amount": "3 łyżki" },
+{ "name": "papryka słodka", "amount": "1 łyżka" },
+{ "name": "sól", "amount": "1 łyżeczka" }
+],
+"instructions": [
+"Pokrój cebulę w piórka, paprykę w paski, kiełbasę w plasterki.",
+"Rozgrzej olej w dużym garnku.",
+"Podsmaż cebulę do miękkości przez 5 minut.",
+"Dodaj paprykę i smaż 5 minut.",
+"Dodaj kiełbasę i smaż 3 minuty.",
+"Wlej pomidory krojone z sokiem pomidorowym.",
+"Dodaj paprykę słodką i sól, wymieszaj.",
+"Gotuj na małym ogniu przez 30 minut, często mieszając.",
+"Podawaj z pieczywem lub kaszą."
+]
+},
+{
+"lp": 10,
+"name": "Gulasz wołowy z pomidorami krojonymi",
+"ingredients": [
+{ "name": "wołowina", "amount": "600 g" },
+{ "name": "pomidory krojone w soku pomidorowym", "amount": "400 g" },
+{ "name": "cebula", "amount": "2 szt" },
+{ "name": "papryka słodka", "amount": "2 łyżki" },
+{ "name": "bulion wołowy", "amount": "300 ml" },
+{ "name": "olej", "amount": "3 łyżki" },
+{ "name": "kminek", "amount": "1 łyżeczka" }
+],
+"instructions": [
+"Pokrój wołowinę w kostkę około 3 cm.",
+"Pokrój cebulę w kostkę.",
+"Rozgrzej olej w garnku i podsmaż mięso partiami do zrumienienia.",
+"Odłóż mięso, podsmaż cebulę w tym samym garnku przez 5 minut.",
+"Dodaj paprykę słodką i kminek, smaż 1 minutę.",
+"Włóż z powrotem mięso, dodaj pomidory krojone z sokiem.",
+"Wlej bulion, wymieszaj i doprowadź do wrzenia.",
+"Przykryj i duś na małym ogniu przez 2 godziny, aż mięso będzie miękkie.",
+"Podawaj z kluskami lub ziemniakami."
+]
+},
+{
+"lp": 11,
+"name": "Pizza z oliwkami i mozzarellą",
+"ingredients": [
+{ "name": "czarne oliwki", "amount": "100 g" },
+{ "name": "ser mozzarella", "amount": "250 g" },
+{ "name": "mąka pszenna", "amount": "300 g" },
+{ "name": "drożdże", "amount": "7 g" },
+{ "name": "sos pomidorowy", "amount": "200 ml" },
+{ "name": "oliwa z oliwek", "amount": "3 łyżki" },
+{ "name": "oregano", "amount": "1 łyżeczka" }
+],
+"instructions": [
+"Rozpuść drożdże w 150 ml ciepłej wody z odrobiną cukru.",
+"Wymieszaj mąkę z solą, dodaj rozczyn drożdżowy i 2 łyżki oliwy.",
+"Wyrabiaj ciasto przez 10 minut, aż będzie gładkie.",
+"Przykryj i odstaw do wyrośnięcia na 1 godzinę.",
+"Rozgrzej piekarnik do 220°C.",
+"Rozwałkuj ciasto na cienki placek i przełóż na blachę.",
+"Posmaruj sosem pomidorowym, ułóż plasterki mozzarelli i oliwki.",
+"Posyp oregano i skrop oliwą.",
+"Piecz 15-20 minut do zrumienienia sera.",
+"Podawaj na gorąco."
+]
+},
+{
+"lp": 12,
+"name": "Sałatka grecka z oliwkami",
+"ingredients": [
+{ "name": "czarne oliwki", "amount": "150 g" },
+{ "name": "ser feta", "amount": "200 g" },
+{ "name": "pomidory", "amount": "3 szt" },
+{ "name": "ogórek", "amount": "1 szt" },
+{ "name": "cebula czerwona", "amount": "1 szt" },
+{ "name": "oliwa z oliwek", "amount": "4 łyżki" },
+{ "name": "oregano", "amount": "1 łyżeczka" }
+],
+"instructions": [
+"Pokrój pomidory w ósemki, ogórek w grube plasterki.",
+"Pokrój cebulę w cienkie piórka.",
+"Pokrusz fetę na większe kawałki.",
+"W dużej misce wymieszaj pomidory, ogórek i cebulę.",
+"Dodaj oliwki i fetę.",
+"Polej oliwą z oliwek i posyp oregano.",
+"Delikatnie wymieszaj wszystkie składniki.",
+"Odstaw w lodówce na 15 minut przed podaniem."
+]
+},
+{
+"lp": 13,
+"name": "Sałatka z majonezem i jajkiem",
+"ingredients": [
+{ "name": "majonez dekoracyjny", "amount": "150 g" },
+{ "name": "jaja", "amount": "4 szt" },
+{ "name": "sałata lodowa", "amount": "1 szt" },
+{ "name": "pomidory koktajlowe", "amount": "200 g" },
+{ "name": "ogórek", "amount": "1 szt" },
+{ "name": "rzodkiewka", "amount": "100 g" },
+{ "name": "szczypiorek", "amount": "10 g" }
+],
+"instructions": [
+"Ugotuj jaja na twardo (10 minut), ostudź i obierz.",
+"Pokrój jaja w ćwiartki.",
+"Pokrój sałatę na paski, pomidory na połówki, ogórek w plasterki.",
+"Pokrój rzodkiewkę w cienkie plasterki.",
+"W dużej misce wymieszaj wszystkie warzywa.",
+"Dodaj jaja i delikatnie wymieszaj.",
+"Polej majonezem dekoracyjnym.",
+"Posyp posiekanym szczypiorkiem i podawaj."
+]
+},
+{
+"lp": 14,
+"name": "Kanapki z majonezem i szynką",
+"ingredients": [
+{ "name": "majonez dekoracyjny", "amount": "100 g" },
+{ "name": "chleb", "amount": "8 kromek" },
+{ "name": "szynka", "amount": "200 g" },
+{ "name": "ser żółty", "amount": "150 g" },
+{ "name": "sałata", "amount": "4 liście" },
+{ "name": "pomidor", "amount": "1 szt" },
+{ "name": "ogórek konserwowy", "amount": "100 g" }
+],
+"instructions": [
+"Pokrój pomidor w plasterki, ogórek wzdłuż na cienkie paski.",
+"Posmaruj 4 kromki chleba majonezem dekoracyjnym.",
+"Ułóż na każdej kromce liść sałaty.",
+"Dodaj plastry szynki i sera żółtego.",
+"Ułóż plasterki pomidora i ogórka.",
+"Przykryj drugą kromką chleba.",
+"Pokrój kanapki na połowę po przekątnej.",
+"Podawaj od razu."
+]
+},
+{
+"lp": 15,
+"name": "Sernik z sera twarogowego",
+"ingredients": [
+{ "name": "ser twarogowy", "amount": "500 g" },
+{ "name": "jaja", "amount": "4 szt" },
+{ "name": "cukier", "amount": "150 g" },
+{ "name": "mąka pszenna", "amount": "80 g" },
+{ "name": "masło", "amount": "100 g" },
+{ "name": "herbatniki", "amount": "200 g" },
+{ "name": "cukier waniliowy", "amount": "16 g" }
+],
+"instructions": [
+"Rozgrzej piekarnik do 160°C.",
+"Pokrusz herbatniki i wymieszaj z roztopionym masłem.",
+"Wyłóż spód formy herbatnikami, dobrze ugniatając.",
+"Ubij ser twarogowy z cukrem i cukrem waniliowym na gładką masę.",
+"Dodawaj jaja po jednym, dokładnie mieszając po każdym.",
+"Dodaj mąkę pszenną i wymieszaj.",
+"Przelej masę na spód z herbatników.",
+"Piecz 60-70 minut, aż sernik się zetnie.",
+"Odstudź w piekarniku z uchylonymi drzwiczkami.",
+"Przechowuj w lodówce minimum 4 godziny przed podaniem."
+]
+},
+{
+"lp": 16,
+"name": "Pierogi z serem twarogowym",
+"ingredients": [
+{ "name": "ser twarogowy", "amount": "400 g" },
+{ "name": "mąka pszenna", "amount": "400 g" },
+{ "name": "jaja", "amount": "2 szt" },
+{ "name": "cukier", "amount": "3 łyżki" },
+{ "name": "sól", "amount": "1 łyżeczka" },
+{ "name": "woda", "amount": "100 ml" },
+{ "name": "masło", "amount": "50 g" }
+],
+"instructions": [
+"Wymieszaj mąkę z solą w misce.",
+"Dodaj 1 jajo i wodę, wyrabiaj ciasto przez 10 minut.",
+"Przykryj ciasto i odstaw na 30 minut.",
+"Wymieszaj ser twarogowy z 1 jajkiem i cukrem na nadzienie.",
+"Rozwałkuj ciasto na cienki placek.",
+"Wykrawaj szklanką kółka.",
+"Na każde kółko nakładaj łyżkę nadzienia i zlepiaj brzegi.",
+"Gotuj pierogi we wrzącej osolonej wodzie 5 minut od wypłynięcia.",
+"Podsmaż na maśle i podawaj ze śmietaną."
+]
+},
+{
+"lp": 17,
+"name": "Pasta z serka śmietankowego",
+"ingredients": [
+{ "name": "serek śmietankowy", "amount": "200 g" },
+{ "name": "szczypiorek", "amount": "20 g" },
+{ "name": "rzodkiewka", "amount": "100 g" },
+{ "name": "sól", "amount": "1 łyżeczka" },
+{ "name": "pieprz", "amount": "0.5 łyżeczki" },
+{ "name": "czosnek", "amount": "2 ząbki" }
+],
+"instructions": [
+"Zetrzyj rzodkiewkę na drobnej tarce.",
+"Posiekaj szczypiorek drobno.",
+"Przeciśnij czosnek przez praskę.",
+"W misce wymieszaj serek śmietankowy z czosnkiem.",
+"Dodaj rzodkiewkę i szczypiorek.",
+"Dopraw solą i pieprzem, dokładnie wymieszaj.",
+"Odstaw w lodówce na 30 minut, aby smaki się połączyły.",
+"Podawaj z pieczywem lub krakersami."
+]
+},
+{
+"lp": 18,
+"name": "Tort z serka śmietankowego i bananów",
+"ingredients": [
+{ "name": "serek śmietankowy", "amount": "300 g" },
+{ "name": "banany", "amount": "3 szt" },
+{ "name": "herbatniki", "amount": "300 g" },
+{ "name": "masło", "amount": "100 g" },
+{ "name": "cukier puder", "amount": "100 g" },
+{ "name": "śmietana kremówka", "amount": "200 ml" },
+{ "name": "sok z cytryny", "amount": "2 łyżki" }
+],
+"instructions": [
+"Pokrusz herbatniki i wymieszaj z roztopionym masłem.",
+"Wyłóż spód formy herbatnikami, dobrze ugniatając.",
+"Ubij śmietanę kremówkę na sztywno.",
+"Wymieszaj serek śmietankowy z cukrem pudrem.",
+"Delikatnie połącz serek z bitą śmietaną.",
+"Pokrój 2 banany w plasterki i skrop sokiem z cytryny.",
+"Ułóż warstwę kremową na spodzie, potem banany.",
+"Powtórz warstwy, zakończ kremem.",
+"Dekoruj plasterkami trzeciego banana.",
+"Wstaw do lodówki na minimum 4 godziny."
+]
+},
+{
+"lp": 19,
+"name": "Zupa krem z buraków ze śmietaną",
+"ingredients": [
+{ "name": "burak", "amount": "600 g" },
+{ "name": "śmietana", "amount": "200 ml" },
+{ "name": "cebula", "amount": "1 szt" },
+{ "name": "czosnek", "amount": "2 ząbki" },
+{ "name": "bulion warzywny", "amount": "800 ml" },
+{ "name": "masło", "amount": "30 g" },
+{ "name": "kminek", "amount": "1 łyżeczka" }
+],
+"instructions": [
+"Obierz i pokrój buraki w kostkę.",
+"Pokrój cebulę w kostkę, posiekaj czosnek.",
+"Rozgrzej masło w garnku i podsmaż cebulę przez 5 minut.",
+"Dodaj czosnek i kminek, smaż 1 minutę.",
+"Dodaj buraki i smaż 3 minuty.",
+"Wlej bulion i gotuj 30 minut, aż buraki będą miękkie.",
+"Zmiksuj zupę na gładki krem blenderem ręcznym.",
+"Dodaj śmietanę, wymieszaj i podgrzej bez gotowania.",
+"Dopraw solą i pieprzem, podawaj z grzankami."
+]
+}]
