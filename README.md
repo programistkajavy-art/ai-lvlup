@@ -17,6 +17,7 @@ Poznaj **Konsultanta Spożywczego** – Twojego cyfrowego pomocnika w kuchni, kt
 ---
 
 💡 **Pomysł na użycie:**  
+
 0. Startujemy z food_consultant_ui.py
 1. Zrób zdjęcie produktu lub etykiety
 2. Zobacz, co kryje się w Twoim jedzeniu i czy jest dla Ciebie bezpieczne.  
